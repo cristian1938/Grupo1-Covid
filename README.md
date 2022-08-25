@@ -14,8 +14,8 @@
 
 #### Trabajo:
 
-- DAnalisar y entender datos estadisticos sobre 
-- Elegimos un programa y lo ejecutamos en google colaboratory
+- Analisar y entender datos estadisticos sobre COVID 19
+
 
 #### Autores:✒️
 
