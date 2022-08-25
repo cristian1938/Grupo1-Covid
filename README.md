@@ -1,5 +1,5 @@
 
-# **<center> 💻 G3 2020-I (ANÁLISIS DE DATOS EMPRESARIALES) 💻 </center>**
+# **<center> 💻 G1 2022-I (ANÁLISIS DE DATOS EMPRESARIALES) 💻 </center>**
 
 ---
 
