@@ -10,7 +10,7 @@
 - **Escuela Prof:** Ingenieria Informatica y de Sistemas
 
 #### Docente:
-- **Germain Garcia zanabria** - _Docente_ 
+- **Garcia zanabria Germain** - _Docente_ 
 
 #### Trabajo:
 
