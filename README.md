@@ -21,7 +21,7 @@
 
 - **Achahuanco Achahui Euridice Ingrid** - _GitHub Account_ - [Euridice](https://github.com/Euridice-I)
 - **Guevara Ferro Cristian Luis** - _GitHub Account_ - [Cristian](https://github.com/cristian1938)
-- **Mamani Quinta Michael Antonni** - _GitHub Account_ - [Muchael](https://github.com/Michael-Antonni)
+- **Mamani Quinta Michael Antonni** - _GitHub Account_ - [Michael](https://github.com/Michael-Antonni)
 
 ## Colaboratory 📖
 
