@@ -14,13 +14,13 @@
 
 #### Trabajo:
 
-- Analisar y entender datos estadisticos sobre COVID 19
+- Analizar y entender datos estadísticos sobre COVID 19
 
 
 #### Autores:✒️
 
 - **Achahuanco Achahui Euridice Ingrid** - _GitHub Account_ - [Euridice](https://github.com/Euridice-I)
-- **Guevara Ferro Cristian Luis** - _GitHub Account_ - [Cristtian](https://github.com/cristian1938)
+- **Guevara Ferro Cristian Luis** - _GitHub Account_ - [Cristian](https://github.com/cristian1938)
 - **Mamani Quinta Michael Antonni** - _GitHub Account_ - [Muchael](https://github.com/Michael-Antonni)
 
 ## Colaboratory 📖
