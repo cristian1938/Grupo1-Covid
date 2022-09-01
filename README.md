@@ -14,7 +14,7 @@
 
 #### Trabajo:
 
-- Analizar y entender datos estadísticos sobre COVID 19
+- Analizar y entender datos estadísticos sobre COVID 19- [presentacion](https://docs.google.com/presentation/d/15J2aJxqnLcrGnATdavOG_ogp7IxHmdyej7eULPLHw9c/edit?usp=sharing) 
 
 
 #### Autores:✒️
