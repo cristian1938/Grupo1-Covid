@@ -28,6 +28,7 @@
 # PROBLEMA
 
 Ya habiendo pasado 3 años desde el primer contagio por coronavirus COVID-19 en Perú, realizaremos un análisis de la evolución de la enfermedad por su distribución por departamentos en el país.
+
 Donde compararemos si hay diferencias en los promedios de personas con contagio positivo y fallecidos entre los diferentes departamentos. 
 Utilizando los datos abiertos del Minsa, con la información acumulada de los años 2020-2021 donde las cifras del covid fueron más elevadas.
 Buscaremos compartir algunas reflexiones en torno a la pandemia de COVID-19 en el Perú. La idea central refiere a que tanto el Estado como la sociedad peruana hicieron lo que pudieron en la medida de sus posibilidades y, a pesar de las cerca de 70 000 muertes, es posible que se haya evitado la mayor catástrofe humanitaria de nuestra historia conocida. En primer lugar, si comparamos la epidemia de COVID-19 con otros eventos de nuestra historia. Por otro lado, hablando de las fortalezas y debilidades al momento de manejar la crisis. Y por último, una estimación de qué hubiera pasado de no haberse tomado ninguna medida.
@@ -36,8 +37,8 @@ Buscaremos compartir algunas reflexiones en torno a la pandemia de COVID-19 en e
 # DATOS
 Realizamos un pequeño dataset de los departamentos y provincias del Perú para su posterior ayuda, donde contiene los 25 departamentos.
 ## ¿Qué datos tenemos actualmente?
-- Datos a nivel **regional y nacional**:
-	- [Consolidado_COVID19_Chile_Regiones.CSV](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa) - Por cada día desde el 02 de Marzo: casos nuevos y totales, fallecidos nuevos y totales. Para nivel país, recuperados nuevos y recuperados totales.
+- Datos a nivel **MINSA**:
+	- [Casos positivos por COVID-19](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa) - Es el registro diario de casos positivos de covid-19 confirmados con cualquier tipo de prueba y que presentan síntomas
 
 
 # ANALISIS 
