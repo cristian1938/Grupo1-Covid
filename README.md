@@ -25,7 +25,9 @@
 
 ## Colaboratory 📖
 
-# Los Datos
+##PROBLEMA
+
+# DATOS
 ## ¿Qué datos tienen actualmente?
 - Datos a nivel **regional y nacional**:
 	- [Consolidado_COVID19_Chile_Regiones.CSV](https://github.com/YachayData/COVID-19/blob/master/Consolidado_COVID19_Chile_Regiones.CSV) - Por cada día desde el 02 de Marzo: casos nuevos y totales, fallecidos nuevos y totales. Para nivel país, recuperados nuevos y recuperados totales.
@@ -43,6 +45,13 @@ Hay mucha más información disponible que nos gustaría incluír. A continuaci�
 - [Contaminación](https://github.com/YachayData/COVID-19/issues/8)
 - Información demográfica.
 - Fechas y lugares de medidas como cuarentenas
+
+##ANALISIS 
+
+##TAREAS
+
+##CONCLUSIONES
+
 
 
 
