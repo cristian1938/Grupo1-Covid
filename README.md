@@ -43,7 +43,6 @@ Realizamos un pequeño dataset de los departamentos y provincias del Perú para 
 Contamos con el registro diario de casos positivos de covid-19 confirmados con cualquier tipo de prueba y que presentan síntomas. Cada registro es igual a una persona, la cual puede caracterizarse por sexo, edad y ubicación geográfica hasta nivel de distrito.
 Obtenido de la Directiva Sanitaria para la vigilancia epidemiológica de la enfermedad de Coronavirus en el Perú
 
-![image](https://user-images.githubusercontent.com/59376790/188521335-4a4e50e3-f59b-4370-9e3e-ed3acad71a23.png)
 
 ## Diccionario de datos positivos
 ![image](https://user-images.githubusercontent.com/59376790/188521379-1d1cf1d0-88f8-4eb9-be5f-646c09979cac.png)
