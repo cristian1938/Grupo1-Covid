@@ -27,9 +27,7 @@
 
 # PROBLEMA
 
-Ya habiendo pasado 3 años desde el primer contagio por coronavirus COVID-19 en Perú, realizaremos un análisis de la evolución de la enfermedad por su distribución por departamentos en el país.
-
-Donde compararemos si hay diferencias en los promedios de personas con contagio positivo y fallecidos entre los diferentes departamentos. 
+Ya habiendo pasado 3 años desde el primer contagio por coronavirus COVID-19 en Perú, realizaremos un análisis de la evolución de la enfermedad por su distribución por departamentos en el país.Compararemos si hay diferencias en los promedios de personas con contagio positivo y fallecidos entre los diferentes departamentos. 
 Utilizando los datos abiertos del Minsa, con la información acumulada de los años 2020-2021 donde las cifras del covid fueron más elevadas.
 Buscaremos compartir algunas reflexiones en torno a la pandemia de COVID-19 en el Perú. La idea central refiere a que tanto el Estado como la sociedad peruana hicieron lo que pudieron en la medida de sus posibilidades y, a pesar de las cerca de 70 000 muertes, es posible que se haya evitado la mayor catástrofe humanitaria de nuestra historia conocida. En primer lugar, si comparamos la epidemia de COVID-19 con otros eventos de nuestra historia. Por otro lado, hablando de las fortalezas y debilidades al momento de manejar la crisis. Y por último, una estimación de qué hubiera pasado de no haberse tomado ninguna medida.
 
@@ -39,7 +37,7 @@ Realizamos un pequeño dataset de los departamentos y provincias del Perú para 
 ## ¿Qué datos tenemos actualmente?
 - Datos a nivel **MINSA**:
 	- [Casos positivos por COVID-19](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa) - Es el registro diario de casos positivos de covid-19 confirmados con cualquier tipo de prueba y que presentan síntomas
-	- [Fallecidos por COVID-19]([https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa#:~:text=Esta%20nueva%20clasificaci%C3%B3n%20est%C3%A1%20definida,para%20SARS%2DCoV%2D2.)) - Es el registro diario de muertes por Covid-19
+	- [Fallecidos por COVID-19]([[https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa#:~:text=Esta%20nueva%20clasificaci%C3%B3n%20est%C3%A1%20definida,para%20SARS%2DCoV%2D2.)](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa#:~:text=Esta%20nueva%20clasificaci%C3%B3n%20est%C3%A1%20definida,para%20SARS%2DCoV%2D2.)) - Es el registro diario de muertes por Covid-19
 
 
 Contamos con el registro diario de casos positivos de covid-19 confirmados con cualquier tipo de prueba y que presentan síntomas. Cada registro es igual a una persona, la cual puede caracterizarse por sexo, edad y ubicación geográfica hasta nivel de distrito.
