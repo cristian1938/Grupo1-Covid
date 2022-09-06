@@ -66,7 +66,7 @@ Desde que se publicó este dataset, cada registro representaba un fallecido conf
 Teniendo en cuenta del cómo nos afectó esta pandemia nos propusimos:
 ## Tarea principal:
 Analizar la enfermedad por su distribución por departamentos en el país donde se compara las diferencias en los promedios de personas con contagio positivo, fallecidos.
-## Tarea secundaria
+## Tarea secundaria:
 
 Analizar la tasa de personas fallecidas por edad en departamentos del país según la fecha de prueba de resultado.
 
