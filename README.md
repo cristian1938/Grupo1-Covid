@@ -37,7 +37,7 @@ Realizamos un pequeño dataset de los departamentos y provincias del Perú para 
 ## ¿Qué datos tenemos actualmente?
 - Datos a nivel **MINSA**:
 	- [Casos positivos por COVID-19](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa) - Es el registro diario de casos positivos de covid-19 confirmados con cualquier tipo de prueba y que presentan síntomas
-	- [Fallecidos por COVID-19]([[https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa#:~:text=Esta%20nueva%20clasificaci%C3%B3n%20est%C3%A1%20definida,para%20SARS%2DCoV%2D2.)](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa#:~:text=Esta%20nueva%20clasificaci%C3%B3n%20est%C3%A1%20definida,para%20SARS%2DCoV%2D2.)) - Es el registro diario de muertes por Covid-19
+	- [Fallecidos por COVID-19](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa#:~:text=Esta%20nueva%20clasificaci%C3%B3n%20est%C3%A1%20definida,para%20SARS%2DCoV%2D2.) - Es el registro diario de muertes por Covid-19
 
 
 Contamos con el registro diario de casos positivos de covid-19 confirmados con cualquier tipo de prueba y que presentan síntomas. Cada registro es igual a una persona, la cual puede caracterizarse por sexo, edad y ubicación geográfica hasta nivel de distrito.
